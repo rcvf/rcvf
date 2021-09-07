@@ -4,11 +4,12 @@
 - 📫 How to reach me rc_vf@hotmail.com
 
 :parking: Companies:
-- :moneybag: https://github.com/bitcoin
-- :cyclone: https://github.com/pentaho
+- https://github.com/bitcoin
+- https://github.com/pentaho
 
 :computer: People:
-- :neckbeard: https://github.com/johncantrell97
+- https://github.com/johncantrell97
+- https://github.com/iancoleman
 
 <!---
 rcvf/rcvf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
